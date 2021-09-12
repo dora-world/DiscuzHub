@@ -706,7 +706,7 @@
     <string name="discuz_mobile_allow_register">移动接口现在开放注册，然而大部分论坛都未对注册模块进行了很好的调试。</string>
     <string name="discuz_allow_qq">此站点允许使用QQ登录账号。</string>
     <string name="discuz_post_members">此论坛有%1$s名用户，一共发了%2$s个帖子。</string>
-    <string name="discuz_single_copyright">由Discuz Hub驱动</string>
+    <string name="discuz_single_copyright">云计算由百度云提供</string>
     <string name="login_parameter_not_ready">登录未就绪，请稍后再试。</string>
     <string name="login_user">正在登陆%1$s这个账号 。。。</string>
     <string name="bbs_anonymous_mode_title">匿名用户</string>
