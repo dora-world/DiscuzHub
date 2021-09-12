@@ -143,9 +143,6 @@ class PortalActivity : AppCompatActivity() {
                 binding.checkResultIcon.visibility = View.VISIBLE
                 binding.checkLoadingProgressbar.visibility = View.INVISIBLE
                 binding.checkResultIcon.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_suggestion_check_circle_outline_24px))
-                binding.checkLoadingText.setText(getString(R.string.check_discuz_successfully, checkResult.siteName))
-                binding.loadingCardview.setCardBackgroundColor(getColor(R.color.colorGreenseaBackground))
-                binding.checkLoadingText.setTextColor(getColor(R.color.colorGreensea))
                 binding.agreeBbsPolicy.visibility = View.VISIBLE
                 binding.agreeDiscuzhubCheckbox.visibility = View.VISIBLE
                 binding.agreePolicyText.visibility = View.VISIBLE
