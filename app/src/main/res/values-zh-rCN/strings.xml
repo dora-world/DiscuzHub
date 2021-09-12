@@ -4,7 +4,7 @@
     <string name="title_add_a_forum_by_url">根据网址添加一个论坛</string>
     <string name="action_settings">设置</string>
     <string name="add_a_forum_by_url_safe_client_check">使用安全的认证方式以保护HTTPS通信安全</string>
-    <string name="bbs_anonymous">匿名访问</string>
+    <string name="bbs_anonymous">游客访问</string>
     <string name="bbs_register_an_account">%1$s注册</string>
     <string name="delete_forum_information">已经删除了此论坛的所有信息。</string>
     <string name="bbs_undo_delete">撤销</string>
@@ -196,7 +196,7 @@
     <string name="bbs_delete_user_info_template">从论坛(%2$s)中删除用户(%1$s)。</string>
     <string name="bbs_privacy_protect_alert">此内容由于隐私设置不予显示。</string>
     <string name="bbs_notification_system">系统通知</string>
-    <string name="welcome">欢迎！</string>
+    <string name="welcome">哆啦论坛欢迎您！</string>
     <string name="bbs_personal_info_credit_with_title_template">%1$s (积分: %2$s)</string>
     <string name="not_known">未知</string>
     <string name="bbs_post_reply">回复</string>
@@ -382,7 +382,7 @@
     <string name="add_bbs_url_failed">%1$s并不是一个有效的链接。</string>
     <string name="attachment_download_time">已下载%1$d次</string>
     <string name="thread_readperm">需要 %1$d阅读权限（您%2$d）</string>
-    <string name="thread_anoymous_readperm">在匿名模式无法查看本帖（需要%1$d阅读权限）。</string>
+    <string name="thread_anoymous_readperm">在未登录模式无法查看本帖（需要%1$d阅读权限），请前去登录。</string>
     <string name="post_block">此贴已被屏蔽。</string>
     <string name="post_warn">此贴已被警告。</string>
     <string name="post_revised">帖子审核后再编辑标记，用于防止重复加分。</string>
@@ -649,8 +649,8 @@
         <item>由左滑入</item>
     </string-array>
     <string name="switch_user">使用%1$s访问论坛。</string>
-    <string name="switch_incognitive">使用匿名模式访问论坛。</string>
-    <string name="incognitive_mode">还没有一个登录的账号，因此您将以匿名模式访问论坛。</string>
+    <string name="switch_incognitive">使用游客模式访问论坛。</string>
+    <string name="incognitive_mode">还没有一个登录的账号，因此您将以游客模式访问论坛。</string>
     <string name="bbs_url_example_qzzn">QZZN论坛</string>
     <string name="auto_check_url">自动根据建议添加论坛</string>
     <string name="forum_category">主题分类</string>
@@ -709,8 +709,8 @@
     <string name="discuz_single_copyright">云计算由百度云提供</string>
     <string name="login_parameter_not_ready">登录未就绪，请稍后再试。</string>
     <string name="login_user">正在登陆%1$s这个账号 。。。</string>
-    <string name="bbs_anonymous_mode_title">匿名用户</string>
-    <string name="bbs_anonymous_mode_description">你正在以匿名模式浏览%1$s。部分的功能在您登陆前都会被禁用。</string>
+    <string name="bbs_anonymous_mode_title">游客</string>
+    <string name="bbs_anonymous_mode_description">你还没有注册哆啦A梦论坛。部分的功能在您登陆前都会被禁用(如发帖，回帖)。</string>
     <string name="preference_title_theme">选择应用主题</string>
     <string name="choose_theme_title">选择应用主题</string>
     <string name="draft_box_description">这个论坛下所有未发表的稿子。</string>
