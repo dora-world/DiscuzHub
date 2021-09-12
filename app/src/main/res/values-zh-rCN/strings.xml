@@ -682,7 +682,7 @@
     <string name="single_discuz_portal_title">开始</string>
     <string name="warn_app_id">请遵循我们（DiscuzHub）的政策，避免使用\"com.kidozh.discuzhub\"这个应用ID。点此了解原因和解决方案。</string>
     <string name="loading_bbs_check_info">正在检查%1$s是否具有Discuz移动接口，这将至多耗费10秒时间。</string>
-    <string name="check_discuz_successfully">%1$s 具有移动接口，能够使用本应用访问此论坛。点此查看详情。</string>
+    <string name="check_discuz_successfully">感谢您首次使用哆啦A梦论坛APP，请同意我们的使用条款</string>
     <string name="agree_bbs_policy">我同意%1$s的使用条款。</string>
     <string name="agree_discuzhub_policy">感谢使用！</string>
     <string name="http_warn">HTTP协议是一种不安全的协议。传递数据时您的信息（例如密码）很容易遭到泄露，您浏览的信息也极有可能遭到篡改。请联系%1$s管理员以使用HTTPS协议！</string>
