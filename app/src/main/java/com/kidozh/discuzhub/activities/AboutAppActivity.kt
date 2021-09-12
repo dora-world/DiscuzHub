@@ -61,11 +61,11 @@ class AboutAppActivity : BaseStatusActivity() {
                 .placeholder(R.drawable.ic_baseline_public_24)
                 .into(binding.aboutAppLogo)
         binding.aboutFootNote.setText(R.string.discuz_single_copyright)
-        binding.checkLoadingText.setText(getString(R.string.check_discuz_successfully, bbs.site_name))
-        binding.discuzInfoCardview.setOnClickListener {
-            val fragment = DiscuzDetailDialogFragment(bbs)
-            fragment.show(supportFragmentManager, DiscuzDetailDialogFragment::class.simpleName)
-        }
+        binding.checkLoadingText.setText("感谢您使用哆啦A梦论坛APP")
+//        binding.discuzInfoCardview.setOnClickListener {
+//            val fragment = DiscuzDetailDialogFragment(bbs)
+//            fragment.show(supportFragmentManager, DiscuzDetailDialogFragment::class.simpleName)
+//        }
 
     }
 
